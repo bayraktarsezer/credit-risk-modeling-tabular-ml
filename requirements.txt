@@ -1,5 +1,9 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+# Tested with Python 3.13.9
+# Runtime: ~3 min for full notebook execution (CPU, 255k rows)
+# Peak memory: ~1 GB
+
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+matplotlib==3.10.6
+seaborn==0.13.2
